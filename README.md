@@ -1,4 +1,4 @@
-# Hi, my name is Felipe Prioli, I'm joining programming, focusing on Front-End
+## Hi, i'm Felipe Prioli, I'm joining programming, focusing on Front-End
 
 ## Founder of SoundL
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fellpzh)
