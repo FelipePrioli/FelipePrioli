@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm Felipe Prioli, I'm joining programming, focusing on Front-End
+<h1 align="center">Hi, i'm Felipe Prioli, I'm joining programming, focusing on Front-End 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipePrioli&label=Profile%20views&color=0e75b6&style=flat" alt="FelipePrioli" /> </p>
 
