@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Dude;Are+you+really+going+to+stalk+me?+)](https://git.io/typing-svg)
 
-##<p //PT-BR </p>
+##PT-BR 
 
 Olá, meu nome é Felipe Prioli. Atualmente, me interesso muito a área de banco de dados e análise de dados. Já tive alguns projetos em Python, JavaScript, C#, Java, SQL e algumas experiências em Angular e TypeScript que não posso chamar de exatamente de relevantes.
 
@@ -23,7 +23,7 @@ Desenvolvi um jogo em C# com uma mecânica de "Fliperama". Foi uma ótima experi
 
 Atualmente, estou me formando em Ciência da Computação. Já trabalho na área de T.I., porém não no ramo de programação nem banco de dados. Seria do meu interesse experimentar o ambiente de trabalho de uma equipe de desenvolvimento.
 
-##<p //English </p>
+##English
 Hello, my name is Felipe Prioli. Currently, I am very interested in the field of databases and data analysis. I have had some projects in Python, JavaScript, C#, Java, SQL, and some experiences in Angular and TypeScript that I can't exactly call relevant.
 
 I developed a game in C# with an "Arcade" mechanic. It was a great experience to learn what it is like to develop something literally from scratch. I learned the basics of GitHub, and it was my first contact with C#. Yes, my first contact with a language, and I had to develop a game. Long live the IT college!
