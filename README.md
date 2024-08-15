@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipePrioli&label=Profile%20views&color=0e75b6&style=flat" alt="FelipePrioli" /> </p>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fellpzh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_fellpz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ffelipeprioli)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipePrioli&show_icons=true&theme=dark)
 
