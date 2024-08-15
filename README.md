@@ -1,4 +1,11 @@
-<h1 align="center">Hi, i'm Felipe Prioli, I'm joining programming, focusing on Front-End 
+<h1 align="center">Hi, i'm Felipe Prioli, I'm joining programming, focusing on Front-End h1>
+
+<p  Olá, meu nome é Felipe Prioli. Atualmente, me interesso muito a área de banco de dados e análise de dados. Já tive alguns projetos em Python, JavaScript, C#, Java, SQL e algumas experiências em Angular e TypeScript que não posso chamar de exatamente de relevantes.
+
+Desenvolvi um jogo em C# com uma mecânica de "Fliperama". Foi uma ótima experiência para aprender o que é desenvolver algo literalmente do zero. Aprendi o básico de GitHub e foi o meu primeiro contato com C#. Sim, meu primeiro contato com uma linguagem e eu já tive que desenvolver um jogo. Viva a faculdade de T.I.!
+
+Atualmente, estou me formando em Ciência da Computação. Já trabalho na área de T.I., porém não no ramo de programação nem banco de dados. Seria do meu interesse experimentar o ambiente de trabalho de uma equipe de desenvolvimento.
+p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipePrioli&label=Profile%20views&color=0e75b6&style=flat" alt="FelipePrioli" /> </p>
 
