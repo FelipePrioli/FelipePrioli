@@ -16,6 +16,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p //PT-BR </p>
 
 Olá, meu nome é Felipe Prioli. Atualmente, me interesso muito a área de banco de dados e análise de dados. Já tive alguns projetos em Python, JavaScript, C#, Java, SQL e algumas experiências em Angular e TypeScript que não posso chamar de exatamente de relevantes.
