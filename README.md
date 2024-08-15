@@ -16,7 +16,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Dude;Are+you+really+going+to+stalk+me+,+at+least+hire+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Dude;Are+you+really+going+to+stalk+me?+)](https://git.io/typing-svg)
 
 <p //PT-BR </p>
 
