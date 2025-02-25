@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=reactcript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Dude;Are+you+really+going+to+stalk+me?+)](https://git.io/typing-svg)
