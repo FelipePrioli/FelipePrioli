@@ -15,18 +15,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Dude;Are+you+really+going+to+stalk+me?+)](https://git.io/typing-svg)
 
-##PT-BR 
-
-Olá, meu nome é Felipe Prioli. Atualmente, me interesso muito a área de banco de dados e análise de dados. Já tive alguns projetos em Python, JavaScript, C#, Java, SQL e algumas experiências em Angular e TypeScript que não posso chamar de exatamente de relevantes.
-
-Desenvolvi um jogo em C# com uma mecânica de "Fliperama". Foi uma ótima experiência para aprender o que é desenvolver algo literalmente do zero. Aprendi o básico de GitHub e foi o meu primeiro contato com C#. Sim, meu primeiro contato com uma linguagem e eu já tive que desenvolver um jogo. Viva a faculdade de T.I.!
-
-Atualmente, estou me formando em Ciência da Computação. Já trabalho na área de T.I., porém não no ramo de programação nem banco de dados. Seria do meu interesse experimentar o ambiente de trabalho de uma equipe de desenvolvimento.
-
-##English
-
-Hello, my name is Felipe Prioli. Currently, I am very interested in the field of databases and data analysis. I have had some projects in Python, JavaScript, C#, Java, SQL, and some experiences in Angular and TypeScript that I can't exactly call relevant.
-
-I developed a game in C# with an "Arcade" mechanic. It was a great experience to learn what it is like to develop something literally from scratch. I learned the basics of GitHub, and it was my first contact with C#. Yes, my first contact with a language, and I had to develop a game. Long live the IT college!
-
-Currently, I am graduating in Computer Science. I already work in the IT field, but not in programming or databases. I am interested in experiencing the work environment of a development team.
+Backend Developer with experience in end-to-end projects, working on the creation, maintenance, and evolution of APIs and services. I work with Node.js (TypeScript), SQL, C#, Python, and cloud concepts (AWS). I focus on building robust, scalable, and well-structured solutions, following best practices, testing, and agile methodologies.
